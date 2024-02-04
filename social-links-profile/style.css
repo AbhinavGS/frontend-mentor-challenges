@@ -25,6 +25,18 @@ body {
   border-radius: 1rem;
 }
 
+@media screen and (max-width: 768px) {
+  .profile-card {
+    background-color: #1f1f1f;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: 80%;
+    padding: 1.5rem;
+    border-radius: 1rem;
+  }
+}
+
 img {
   width: 100px;
   border-radius: 50%;
